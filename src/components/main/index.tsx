@@ -46,7 +46,7 @@ export default function CallToActionWithVideo() {
             </Text>
             <br />
             <Text as={'span'} color={'red.400'}>
-              use everywhere!
+              use everywhere & anywhere!
             </Text>
           </Heading>
           <Text color={'gray.500'}>
